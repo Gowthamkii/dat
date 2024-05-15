@@ -1,0 +1,49 @@
+emp_id,emp_name,emp_state,salary
+1,"John Doe",California,50000.00
+2,"Jane Smith","New York",60000.00
+3,"Michael Johnson",Texas,55000.00
+4,"Emily Davis",Florida,52000.00
+5,"Chris Brown",California,48000.00
+6,"Sarah Wilson",Texas,53000.00
+7,"Kevin Lee","New York",57000.00
+8,"Amanda Taylor",Florida,51000.00
+9,"David Martinez",California,49000.00
+10,"Jessica Anderson",Texas,54000.00
+11,"Daniel Rodriguez","New York",59000.00
+12,"Lisa Hernandez",Florida,52000.00
+13,"Andrew Wilson",California,47000.00
+14,"Melissa Gonzalez",Texas,56000.00
+15,"Matthew Perez","New York",61000.00
+16,"Laura King",Florida,53000.00
+17,"Steven Wright",California,48000.00
+18,"Stephanie Lopez",Texas,55000.00
+19,"James Hill","New York",60000.00
+20,"Megan Young",Florida,51000.00
+21,"Brian Scott",California,49000.00
+22,"Nicole Green",Texas,54000.00
+23,"Justin Adams","New York",58000.00
+24,"Michelle Campbell",Florida,52000.00
+25,"Ryan Mitchell",California,46000.00
+26,"Kimberly Baker",Texas,55000.00
+27,"Timothy Nelson","New York",59000.00
+28,"Angela Carter",Florida,54000.00
+29,"Brandon Rivera",California,50000.00
+30,"Rebecca Ward",Texas,56000.00
+31,"Patrick Cooper","New York",61000.00
+32,"Christina Torres",Florida,53000.00
+33,"Gary Morris",California,47000.00
+34,"Catherine Collins",Texas,55000.00
+35,"Eric Coleman","New York",60000.00
+36,"Tiffany Russell",Florida,52000.00
+37,"Jeremy Brooks",California,49000.00
+38,"Hannah Long",Texas,54000.00
+39,"Gregory Ross","New York",58000.00
+40,"Samantha Barnes",Florida,51000.00
+41,"Nathan Hughes",California,46000.00
+42,"Ashley Bell",Texas,55000.00
+43,"Edward Murphy","New York",59000.00
+44,"Kelly Foster",Florida,54000.00
+45,"Joshua Perry",California,50000.00
+46,"Christine Cox",Texas,56000.00
+47,"Dennis Jenkins","New York",61000.00
+48,"Brittany Howard",Florida,53000.00
